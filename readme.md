@@ -60,7 +60,7 @@ Please bring a laptop, not an iPad/tablet. The visual development tools only run
 
 This is a suggested timeline to help you stay on track.
 
-![Suggested Class Timeline](http://github.com/girldevelopit/gdi-salesforce/images/timeline.jpg?raw=true)
+![Suggested Class Timeline](images/timeline.jpg?raw=true)
 
 ### Resources
 [Traliblazers video](https://www.youtube.com/watch?v=LIefFBi-lHw)
