@@ -1,6 +1,6 @@
 # Intro to App Building with Salesforce
 
-Slides and materials are hosted at [http://girldevelopit.github.io/gdi-salesforce](http://girldevelopit.github.io/gdi-salesforce)).
+Slides and materials are hosted at [http://girldevelopit.github.io/gdi-salesforce](http://girldevelopit.github.io/gdi-salesforce).
 
 ## About this course
 
